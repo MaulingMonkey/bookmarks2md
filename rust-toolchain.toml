@@ -1,0 +1,2 @@
+[toolchain]
+channel = "1.83.0" # TODO: dump to minimum supported rust version
